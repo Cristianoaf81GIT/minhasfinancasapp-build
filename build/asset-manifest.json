@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d0b64200.chunk.css",
+    "main.js": "./static/js/main.08b408b0.chunk.js",
+    "main.js.map": "./static/js/main.08b408b0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.482eae4f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.482eae4f.js.map",
+    "static/css/2.1bdf6a0c.chunk.css": "./static/css/2.1bdf6a0c.chunk.css",
+    "static/js/2.2a45b130.chunk.js": "./static/js/2.2a45b130.chunk.js",
+    "static/js/2.2a45b130.chunk.js.map": "./static/js/2.2a45b130.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.70d73af6caceffa17f947269e83bc503.js": "./precache-manifest.70d73af6caceffa17f947269e83bc503.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.1bdf6a0c.chunk.css.map": "./static/css/2.1bdf6a0c.chunk.css.map",
+    "static/css/main.d0b64200.chunk.css.map": "./static/css/main.d0b64200.chunk.css.map",
+    "static/js/2.2a45b130.chunk.js.LICENSE.txt": "./static/js/2.2a45b130.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "./static/media/line.567f5738.gif",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/theme.css": "./static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "./static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.482eae4f.js",
+    "static/css/2.1bdf6a0c.chunk.css",
+    "static/js/2.2a45b130.chunk.js",
+    "static/css/main.d0b64200.chunk.css",
+    "static/js/main.08b408b0.chunk.js"
+  ]
+}

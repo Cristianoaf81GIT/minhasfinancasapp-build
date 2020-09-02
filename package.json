@@ -1,0 +1,23 @@
+{
+  "name": "frontend-final",
+  "version": "1.0.0",
+  "engines":{
+    "node": "12.18.3"
+  },
+  "description": "versao final frontend minhas-financas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "financeiro"
+  ],
+  "author": "cristiano faria",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
